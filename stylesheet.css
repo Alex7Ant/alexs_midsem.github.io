@@ -1,0 +1,21 @@
+.ul:hover{
+    transition:2ss;
+    color: darkblue;
+}
+
+.ul{
+    align-items: center;
+}
+
+.nav-class{
+    display:flex;
+    justify-content: right;
+}
+
+.div1{
+    color: blue;
+}
+
+.p1{
+    color:blue;
+}
