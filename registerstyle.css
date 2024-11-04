@@ -1,0 +1,10 @@
+.submit-btn:hover{
+    color: blue;
+    transition: 0.5s; 
+    background-color: white ;
+}
+
+.home-btn:hover{
+    color:blue;
+
+}
